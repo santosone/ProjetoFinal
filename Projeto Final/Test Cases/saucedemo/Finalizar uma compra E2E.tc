@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Finalizar uma compra E2E</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba58b117-db08-4036-8fae-fffe1de3df4b</testCaseGuid>
+</TestCaseEntity>

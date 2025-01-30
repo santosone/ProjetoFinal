@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ordenar pelo maior preço (Validar que o primeiro item é o maior)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4e480b1-24c5-43a6-95ac-9f9163feea15</testCaseGuid>
+</TestCaseEntity>

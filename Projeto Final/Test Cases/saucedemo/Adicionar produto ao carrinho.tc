@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Adicionar produto ao carrinho</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c3d12a2c-fbf1-4ad4-8b2c-10b1041764d9</testCaseGuid>
+</TestCaseEntity>

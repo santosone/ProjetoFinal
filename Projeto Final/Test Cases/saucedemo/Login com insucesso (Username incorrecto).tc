@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login com insucesso (Username incorrecto)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3d32d18-ba2c-431d-b5e5-38ec155f9554</testCaseGuid>
+</TestCaseEntity>
