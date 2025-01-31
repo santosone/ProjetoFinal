@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('saucedemo/Login com sucesso'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Saucedemo/Page_Swag Labs/button_Add to cart'))
+
+WebUI.click(findTestObject('Object Repository/Saucedemo/Page_Swag Labs/a_1'))
+
+WebUI.click(findTestObject('Object Repository/Saucedemo/Page_Swag Labs/button_Remove'))
+
+WebUI.click(findTestObject('Object Repository/Saucedemo/Page_Swag Labs/button_Continue Shopping'))
+
+WebUI.click(findTestObject('Object Repository/Saucedemo/Page_Swag Labs/a_Swag Labs_shopping_cart_link'))
+
