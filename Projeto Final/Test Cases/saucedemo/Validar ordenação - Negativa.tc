@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validar ordenação - Negativa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31d9e556-0649-4d64-8a68-3cf7a2deb432</testCaseGuid>
+</TestCaseEntity>
